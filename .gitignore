@@ -1,0 +1,45 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos de publicação
+Publish/
+
+# Arquivos de dependência e pacotes NuGet
+packages/
+*.nupkg
+*.paket.restore.log
+
+# Arquivos de configuração
+Web.config.user
+*.config
+
+# Arquivos temporários
+[Tt]emp/
+[Oo]bj/
+
+# Arquivos de log
+*.log
+
+# Arquivos de usuário específicos do Visual Studio
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos de cache
+*_i.c
+*.ilk
+*.mdf
+*.ldf
+
+# Visual Studio Code
+.vscode/
+
+# Cache R# e Resharper
+_ReSharper*/
+*.resharper
+
+# Arquivos do Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
